@@ -132,3 +132,7 @@ Nuxtでは、ページ表示時のデータ取得には `useFetch`、ユーザ�
 * [Nuxt Auto-imports](https://nuxt.com/docs/4.x/guide/concepts/auto-imports)
 * [Nuxt Data Fetching](https://nuxt.com/docs/4.x/getting-started/data-fetching)
 * [Nuxt Directory Structure: server](https://nuxt.com/docs/4.x/guide/directory-structure/server)
+
+## Related Articles
+
+* Zenn: https://zenn.dev/maeda_dev/articles/5848ebd48893c5
